@@ -44,7 +44,7 @@ platforms = ["linux/amd64"]
     gss-ntlmssp \
     gss-ntlmssp-dev \
     imagemagick \
-    imagemagick-6-common \
+    imagemagick-7-common \
     jq \
     krb5-user \
     libaio-dev \
@@ -229,7 +229,7 @@ platforms = ["linux/amd64"]
     gsfonts \
     gss-ntlmssp \
     imagemagick \
-    imagemagick-6-common \
+    imagemagick-7-common \
     jq \
     krb5-user \
     libaio1 \
